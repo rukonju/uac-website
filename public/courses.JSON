@@ -4,15 +4,13 @@
         "title":"Du A Unit Admission Preperation",
         "description":"If you dream to read University of Dhaka, this course is for you.It is directed by the group of some briliant student of DU.",
         "fee":"15000",
-        "location":"Farmgate",
-        "image":"https://www.daily-bangladesh.com/media/imgAll/2019September/en/du-karjun-hall-1910160935.jpg"
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcTU1amNvIsCVrdxg5HivOvTRmDYmm2rXi3XfBmMGN-56kV0k5RTpyPIOtiESLKHBbwuw&usqp=CAU"
     },
     {
         "id":"2",
         "title":"Engineering Admission Preperation",
         "description":"If you dream to read BUET or any engineering university, this course is for you.It is directed by the group of some briliant student of BUET.",
         "fee":"15000",
-        "location":"Farmgate",
         "image":"https://resultbangladesh.com/sites/default/files//field/image/BUET-Admission-Result-Bangl.png"
     },
     {
@@ -20,31 +18,27 @@
         "title":"Medical Admission Preperation",
         "description":"If you dream to read any Medical College, this course is for you.It is directed by the group of some briliant student of DMC.",
         "fee":"15000",
-        "location":"Farmgate",
-        "image":"https://www.daily-bangladesh.com/media/imgAll/2019September/en/du-karjun-hall-1910160935.jpg"
+        "image":"https://www.besonline.in/college_images/dhaka-medical-college-dhaka-bangladesh.jpg.pagespeed.ce.rKaEkHucMu.jpg"
     },
     {
         "id":"4",
         "title":"IBA Admission Preperation",
         "description":"If you dream to read IBA, University of Dhaka, this course is for you.It is directed by the group of some briliant student of IBA, DU.",
         "fee":"15000",
-        "location":"Farmgate",
-        "image":"https://www.daily-bangladesh.com/media/imgAll/2019September/en/du-karjun-hall-1910160935.jpg"
+        "image":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASoAAACpCAMAAACrt4DfAAABU1BMVEX///8yK3AzK3DaNCsjH3OoiEkfFGcwKW8wKG++vM0MAGAnInL19Pn59vC/mz6zjCvQz9sZDWXBolc5MnU/NG6Ud0+df0/g0rW2kTQpIWxgT2W1kkJ8eZ6zjCUqImweE2eWlLDj2L/cKiklG2qwrsMAAF0VBGTk4+rZ2OLt59ajobl0cZnIxtWOjKtOSX9fW4vYIhVqZpHLZTVGQXwAAFbZKyDf3uebmLOopr3AgT3XFwC0s8aHhKXJbzfywsDkfXl5Y1xXUoVVRme6gC3hZmHtrKnnjou9dCanh0rQVzK+jj5KPWrUSS9oVWJBNmyzkUR8Y1TJrW7XxaHOt4euhQ3y7eGIb1f0z87dS0T44N/njYrro6ASEnUAAE9tWV5UQl69kD7JbTfGoDrPtn+AZEy0nkTDeTrTTzDfV1HITwvLe0zBZBa6cRPcQzywlTHicWzLWSe3e2lIAAAX0klEQVR4nO2d/VvayNrHh5cmwxBCAr6QIiEQ3uRNEREFqquVttZaK9Za69me3XVtPefZxf3/f3pmkgABJhBPq7jdfHtdRZJJwnyYueee+54EABw5cuTIkSNHjhw5cuTIkSNHjhw5cuTIkSNHjhw5cuTIkSNHjhw5cuTIkR0lQt9X0cCsa3RvSgSP57+fFvjYD4wq8upf/u8lr5sP/sionnjd30vs3I+ManEiKlWUVRGhTEZ2UE1GpaaESj3HcbmNCpLwe0mVWQcVTXK6IAjNpq8pAJBTJLekbBbUjAodVKOSKqDQzHI+jmtuzrnDmISYzWU3NlcQY0HrH4pKQuU6B+rVKgDcCthA2rZW7ucU2BB8K1p/vDsqjqJp+6cdM1Hf70yWqKR0i8vmFbAkrpRaKz7gi2soVADr+PrlzVwLQWbMbk1DVU2jMa2n+rtT6+O76ZIKPjuVLLqnn0r4NlQQLWWbhVI1neUYHynVWteHQDUP5iCzsVkBWQ4Vw6OspqDKIde4YLW/Pwwp+6lipXi6sDGtblx6+glh/JtQqRB/ihzgQHgFLKGlUt0HuIKq7UIKEHKgzgnruwAY22yjEkTaZw3397tZu6iIJLSSnVw36vVGxaQmn2QiKrEAfCXcekFOQsIG9qzUOKpsFIx2JbVSOQ6ochU3rLD6XVGF74TK5ZLTpYl1q6t2TrJiF9W4t47quTzX/JnLrYssLAus1stksWr0NlZCJVBRGS6LVriKOEtULpcantSwVux0aJb5n1GhTbCZxQYqCxTcZga2G/rdLv0vqVREIpdLx1spUEczReWCyGd9vYyt86Ep3dgKFUR5PLTkBTwa7QpmCN7DhZ+M2Q0bdscFIY2N1QYHfGimqFys9RBmy1S5XPEJsCegYufy3LqQC7daDG5Qg+1yeIGP9suxrFpH8WIOZdItUBdnisrFqlZugy1ThTtx/n9BBcUcyIbTIpSkIT/Af3T95dlQ61PdmWxlRVZRmKsMvNFZoHLhSQVdK7I9VJPHhoHMI6Ba9c3lAPYPRvwl/0/8QXLteNimMU0AWIUMlANXdCaoXKhIv5xo73Ty7t1RiXVBAaVyCgjQmOPJWh+Ee5iU58214XHKRsdERS4uKHkg+MTZooJl6tVyGXuH2x4CB6hUxfcz9pVAuprLzukeQqEYx9D8C1tJjye59UEryKz4jEhMHOFu3iyWQBnOFJWLbtnz9kyVy5XJ3REVrHIojTdgOnFRZ6FugiyU3d7jZxiV54Dfg24WtUCuH7QiJrUIfEJmtqikJdrVKvZMFTZWm3dEJRYrCE+Fs2ZDlWnhqbFqoEq+fuKFqDnkHkC5nM8WQRXOFJWLOo+L2z2bXLgbKhjm0ktAwNUx2+44Hl0qcR2V5yv/GTvH+SGjL2fSQhakmPtDBcXMQHF6S6F1IbumChur8PjRk1CpdW59o1QCreFAlFoGRXT8RUOV3DpugaWMebe8S0afHIfuDRUsZwfa8FUYWmVVypR3066psu2v91AxPu5nAMWxkJ085/a+eq2h8rzh/10dmiDj72MjVWBEIMP7QjVqh1o0AjTXiGaqVHqjtOmv91E1gQLyhTASR6IF0O1/x+uokq/nh30rNqyiOBNPc4w+ZD4AKqBSCtGsDQWpmKJ7pVLrTqh6xTlBGW1Y/g9Gq0o+G3FD3azkLreaWTKJeChUS5ItVNnxMKJcseiVFo6ZFSo38mU32d2lVLYXmNKFe5bXsFU6Krm/nQA2Wr6gPlirKlFqS0FVjI+Vwv2MPoNmRVsh9oELms6VZSipok5K2swTbVYhPOS/enRUv8z75YK2Y3MX6qjqS7tVcSUnPpStsouKMldGHODowQbRVoB9gIppmkIJ7ng2t5HDg84uhE95g9QadkLV+gZRtmIQVSUI4Vzlwcy6XVTjVl0L4s9Ro332ggsDVOxw5jgjitijEaEbHumokgfXxKqroqahzDzbi2Q9HlRw7FyaNaZZOrtBY9N02SLHjjvgG81VuH7ln5iGf0youHGrruUbUlS/jJXviMpKul+F5zWY1GRWjwdVcfxSInHpc3RjhaYmyuygYlQ4x+OZzcF1GGLTZL1g4VGhooQVkDbM0ePtJPj2raigKPgYeY//Nfn6gx8PeFyVmoGfMapxb33cqrOstqNKtev02MSdUMlyFl/V7X/Kb/FPIe5+G2CFsS4+K1TjjcI1dipZjyu3qHYdzn0rKrXKgV3ih0uHxzwJgkJUBEuiZflZoUKjLiTFqqt1bU+TatfHz3BHVOSLKOsdDqJ3uj+OUsYk5hGhGh/raVZdj8Bv0GMzokV83i4qtdk3TYxQMgAhhbMcBx8CFWUNyHjA2NKqW9l1Vfk2VG61P+CJoO/Lq6qlx3D/qLjqeGyAkt2iWHWXsWuXatftpG0mm/U+FJFLMWMbHwIVG276BlJEShSFMtmVraw63dbZS9vYcEFHWtUE3UfAmGVMogWrKKsWrK06AD66XbeRtlm0t8T/X6ml+Dcv8b+fNQuUCCgtAtOz21m6XbeRtlmMHC98P72KPjAqlroShhaB6cfP6Uln2Sqdb0YVffVkuo553k6pJw+MihWp/YYSF1YHO6l2HU5P25AO6J2uPT5qo9SDd0BaqgbQGg4cuF4KPZUzPW1jz6zDp3xUds3ErE8UPYFAiaubCvrGDRkRMzVt8/dGRV/hSBnkTItjKSC1M01N2/zNUbkgxVpRXCdzKbq3YFoU/s2oJkVfZofKBceNDMUhN0+HLdZ9ZKbNmO2j8j9OVC7IjNYxPVZmKCJssfBxatqGggqORzofMyqXPJLxpCzsgOYpHsVBJZqathlCxRJIrHteo2IG9qhRuZhhh52SahiKKFOmPVqZaWkbMyp27i3mA49+IysQ4J6J1QxRwaGbhxiq/zicRaAksIZjLOOJLyJWuguqt2RNgn+e/yy72TBv6pizQzXUdQDnC9Ns8vCiA0pEC1aaqb42LZbzTUvbmFHBvd8wJG8ktOB3e+cfB6qx0B41j2BeZMyNW3Vi+03hCTqpqTcmmVHJn0NRLzwMLQe98C3PHw56IAUVC6E8OgA8BCrqajxzs7J5E4SNS1mhwtWW3p2evvO+64DYnnchEcLGylhiNo4KeuW9o89Hh34/fGBU9LsG0cDFtL2yeOyTTEnb9NeCft6T/b93AjHvqwQ4eXfIg5On0P+TYdtHUEHv0asYHzrhY8GFPS/7sKioHqRpjmd7ZfGYpqRt+qgOf5vz/74Irt7hyi4uvMJ/PfU+7dmrYVT+uSd8R0eSCMUWBt3wQVAVphh2mzdBUBSfnLbpoXL5+WPv7wlwFosAcBbE/50+fcu/oqBivUexU3wklxPIlCIRjO75HxEqi9mwHU1J2/RtlfdJ6AlGBa5O8Nb3ixjV50jog38MFZTnY7iYsIJEEbEKBwKh2E9GJ3wMqCxiLHY0JW3TR4UN1Qlh0CEtJrKMUb1PXD0dM+vevcgJptFC2pIqqKp45tTpdcLHgIqekbElVrSHCv47BEIdTAg3KHCFmYUWQYxlh1FB77sY2d9CxlJRSUpjVsvRiNYJHwOqsu3b6sc1OW3TR+XyxwIggkc/3KBApwNOT0GiZ6p6qLA9D50B8hQApa4o9Xq+rhRULWp9qnXCx4CK5oDa1eS0zcAF9c93QOB9IEJYLJ4uYpN18lk2o+rZczzLUudy9VTRp2yC/K6onT/BL2CXdPaoLNaa2dPku20GqOAeT7pSkGxdjkYBCMT6q0N1VPP8sn4QZEVB9AHQhNk0NNJCgavonjx7VHe4X2Rcxhqsqajc3mNsoRbfk61n73GNTz/0XSmCyvvTbwnjIJWVl3LV1jooZZG7/yn56OHsUVH32tbEtI3p3mXMA284WTT+C8TmWDMqf7//kZvakADqAuA2kNuozDI/738EHZCWqsc9SxwVvfFNTNuYb/P2PsEjIMDWPREiuAaNyjDr/rljzaqTFVZsfFMQlgTcqvRZfSf22cvObmLTQ0UP28kVoTgsYZOajJh4t40ZFXwbwyQSV4B0v8WI1zWCCvsKH4jrBTgRj3ZqXFTL2YxEgoeBk+hb/wM5CxNvk6E7oIjiBFBn3RPvthl6eID/6DfMKnRyhbfH3lKioC6jExbT+k61IJLp+PJv81qE4SFQUe9y60d7qQ5of22VWXRXddKMefiRFN7PuNUsvz/D/enQfL/DwFuX5p5EMU5BissQQjVNhtfT2JH3vm5HkgvmD88VV+hZvB5R6kIzaiCKHtaalLYZedCJ//BJqBPt8AvhoaideQ5odMJmpRoulzZw5wsdvzX23UdsXUYw3BPM0JaiEfUimFRTRQ1v0q1afxnWdFSYxNwxP+/2Di/NGwrCeJ8GT876J+jE5r33+/AAdiA6J1d/lKc7oPSgOXUGNGntUB8VSx5kycqqKi7w7+Kq/k6ioXLL7vnYyeJyIHCWuIpFjrwzfnqHaxAToDqgFosX6SvYVWrZIVRsNV9wq2yhXt99Ffm9Uq9X8Fy40lt3PRIFZb1z715FYrHg8fyR32TTZoZKNPwhus9Fj63QV7BPSNv0UYW1B/1xzSZ5yeovXJ6OitzW5vVD7T/zoo9ZoeovzZBoZ7B4Pg59BfuEu20GHRCtwzJcR2jdXZb0F7iushaotCPu+gTHe0PV85voEVCr2lMLT0jb9FDhVsrlK5u4LWVLFfK4r6xSqWcBmoBqXDNCFVeME9AdUKsoFNWuT0jb9FsV3E1xuOOVtZd6tYxxZfNVq+TWY0Kl9hcb3M2tpN9xau2EDpwFyGTEDANlNYMnk9i7xO/6N0M8ZlTSYA3Z3doJPV5jnbax97x1m6jg24dHJVX7zcBqrmzxceiLh6zTNstBWwxsotrjI9ak7gUVszvl/NYO+AaVrIVrQRQxr034RlT+D/zJg6KSkXnAoqfgrWNQVFQssvz8V5H56T3QHioWRoMJywt97wfz4vaCVoYGN3oK3joNQ7+Jy7r8WZDfm/pzBvZQeef50ARSQKAuYjG1qjvkpVhJZFoj4V2LtfuWQ1qK3mGtFzp2gtG30zDYQQW9H/jgmeVlADG7cWZM4iCa1kLju+mKI7Y1NlJxacrpGTRhKVA1QzkgrZhKBJaHhqnTIH/knfyjD1NRuaB37hUfWzafd+iNpqyPItN+2m66qOkC6uknLtkoUg4Yilgl3gevTxcHNenE+Cef3fS7Zvx4qmfKLst+i2JP5/lItN+mAolOKPh+0of8mygQ2zr49WWwe9IxcJ2FYhE+SrsX69XChyPohToq2Xv40zz1Pq9jno8EO8bpE6fX3edf1tZiM6vgd1Sn60kmk56Dl5FrY53UWScUoyoY4fmFQy/JA3qPnmAg9GKRK2PoS5x0g8++4rMntyaa+L+NovpzzpLJg+fd097GAE1niye4xc0/5Y/nnvDBaGeZWqp3irNQ99mbpPZozLXuj/HbI4HIVtJ4KNWb4LRvP4DtfjQaxbZo3FCPlIxteYwHqB3EJnlYfycFIq97lfJM//G1RBCjCp5OKwYWI70v4Fl3jFSxlNf+T+E5vTaACSU85fDh93VFc2VSioLfKopS4vTXvOYM5kpLdUEvXVQ0lXKKos1W8ko/asflC5WllOZC9c6hXRT/Wdd/nYQ8yhOAZkmPXuX01IT2GYSS7qHlLFZjn0TWtI7yZmvSXMQQnilGOtOLBSK/auc8+OV63MHKI+JB1RGeve6K5KOlEJ7zl/D7FEpvELcIKaCUiSO0zuFXBiExjRHm0yIij8FPIRkoacSocbTuE9II19iXTvdcjXqa/DSYmCYctGPXdVR1pOLtaQK2mCZTliWkr3Yp6LnBFHIDLm74XhWrm3IT3esDj2ftOrI40W/U1QnaABpYPr0mTzCMdmlY83EyEa2LGNWKpGJWTbGK6xXHH10lsUdFxX61wlR8Tdw4Ssyur1mR0xyH1FKuib/uVDyMv3bfrlRpprJ4f4bj4mrPvcwjdddXTM1JhJ12rN7AQJ6p+lIr8Qz5WRCRpBhace2YLNIfbdKMz4EVVfeCsyhDd8I619Gtr9j6Rr/80u2emN0sqiKTeQaWF09D3cjWLxhV8tkv3avxTm1GBaGUNaHKE0oiiYEror5qQNvMZTK5LDImJgQVVsEIeZbVSkXtRaI4JOltZVdWybFLoxdV09lhVC1Jz7k34+WUaDzToiWN3gOm6Yx/fUBGKowKv3xd+/K6G7u+6iSWreyWJUkC6aTbDT5/doDHvi3teeO4V3cXJ6KSJJkboAJIzfsYwkRhdhVizUrMStFXkPCmsApL2XFU2Yws95f4+OIGT0FEG6CklhXDIhkXBS4mj1HJpZKyq7VEDkFZe5JMkwnLxqNzuIyxbaTi3d6jPjEqzWvA1cNu6fMIbmFXncXls6mm/mw50Tk9CWmQ/vqq+WnkMce98x50R0cBMypGKavhutpHpahzu6r+h4TSFRL6lREjk4cocCvaT1CMogI+ZpA0TjFp/Q+tX5Fj00tDqMqMglGx5CeotDwD/kbwl6Gh6qd78LaWOnajW6C71huqdFTGG1LfNwdrz14+D8a616GTq9NOZ3ExYdJip3N6dXJy3Y0Fg89fPlsjLSlpOkMPFR4uIiOs9E+d11DFN0FVVWEfFYdYqGXglHilSGZhpGUwxg3H2bqKNsdQcWgQMiiKRlHcNLN6ixSGUKnxFC4k4RlhRWtViPFlM+SCuFWFDYvH4G3iWBow9KVXQQPVzU1tdXW19rFPjDD7evCf//73/16+fPnc0B9//PHy5bNf1/46+PqmVwqrph37558mVGTX2sgccFOra4FZIqjyxNoMUBE7oX2hZlu1xJTJT7Hhd0tMYSIq8mNNWvpSlgenNKGqkJ5sslV5VWopMrFvzXhVQIg0T7Kt5JJGVoMmiAV+/eWA1MhoVZeB8/P27bZW69VaTUf258XF+flNsq+L7falqRHhUqSwZ/9Fe7vdPr/poUomv/66FcQ9efiqXFqqKitqumigAruDDoh7jp7LU9Rya2lpQ9vMMeIm2FivKEtqJjUZVTEtxZeUQkYzX0Oo1LlWQVaJE2FCpbLYJRHJDeJkBFREcm0Z9raNarlzEuk+X/MYqBrtxsf9y+0XuNbb7Rc7+5ereNvFp0ajsYPpkSIfGxc7jUbthQaTELrZ+YhJnm+3A+1PL7Y97VUN1Vby65dIN3SaGB8xBZXcJ0rWI+9qjg7YxZVvpfUsQUW3GCWE/aN1bG/I5lR6PStov5NXIG+05QSV3u9scevrppidENZuQi2TipbSg8RDnZwPVYug71elcQNNp4uCkGOxO5VKQ/zNYeqpNCLboEV4C8+Ru5Ff9E7U3gG3DdBoeG4D55jZxb6n9uJ8+7Ktab/xZ+O8fUH+vMT/tjHOy8uLT+3zj5+22xeB/Ub7oocqGuxeJazGBKFZ1Kon+HSTgIHlDKuyob/ksDnxYe9a3+zz5chBWumsHnkSfL14rm/4JwKx82WcNWcKOW2QiJXeULJaaIzsLOqnwtfSz8rh6wiDbVbq9FDh6jZA7QJcnrfbf+5fNPC21cuG5+NOoL2DcZxf7rQvd25vLkHj9rbx4tNqI9BobK9e7FzWLvZvwaVnW0d18mNMkmlK6KhWz3fAzSpo7Gx/3P6EmxFB5cEt5fbiPLDzEYCLj6DxYn/1MrANVm8/nQeApwYatW3PdqDduLhd9ey8MFBNnyj+bdWb4WLLU1sFq7XGp/M2uOyjCmw3tnf2Qft8H6y+uLkF+w2MCry4uVxdJaga+DCCqh1ofCJjQfLLD4wqEdP9xyQZzy5qxMB/auDGZKBa3Wmf72Ar3r4ANdyqbs5fBGp/thv7n2qN89Uabkk1T+1yH/+XrBH/4q/nV7Ou0D1qefEqhL3JNQKMVNfz8bbm+WigwgxqgZ2aZzWAEb24rdUaNwC/8+y3G7jH1S61lrRaI5CevQxen3QsJ0Y/irR53LXmfuvOZe2j1i2JS1q7uSUNbgfU9onnVLvVRoGb2m0jmcTm6c1feDoU5EN4vv2jUzIpgGd1V6HrSPD585e/rhGPXHe7a+S/VcM9x+/Is9e//qVNf4LXITJj/AdBGlJAmwhfhULX3SARntG81KRNbsgWPD0M4emhnUn1P0YBjG1UZwGHjyNHjhw5cuTIkSNHjhw5cuTIkSNHjhw5cuTIkaOH0f8DyujLYE8+tWIAAAAASUVORK5CYII="
     },
     {
         "id":"5",
         "title":"DU B Unit Admission Preperation",
         "description":"If you dream to read University of Dhaka, this course is for you.It is directed by the group of some briliant student of DU.",
         "fee":"15000",
-        "location":"Farmgate",
-        "image":"https://www.daily-bangladesh.com/media/imgAll/2019September/en/du-karjun-hall-1910160935.jpg"
+        "image":"https://d30fl32nd2baj9.cloudfront.net/media/2017/09/22/du-kha-unit-exam.jpg/ALTERNATES/w640/DU+KHA+Unit+Exam.JPG"
     },
     {
         "id":"6",
         "title":"DU C Unit Admission Preperation",
         "description":"If you dream to read University of Dhaka, this course is for you.It is directed by the group of some briliant student of DU.",
         "fee":"15000",
-        "location":"Farmgate",
         "image":"https://www.daily-bangladesh.com/media/imgAll/2019September/en/du-karjun-hall-1910160935.jpg"
     },
     {
@@ -52,15 +46,13 @@
         "title":"Spocken English Course",
         "description":"If you dream to read University of Dhaka, this course is for you.It is directed by the group of some briliant student of DU.",
         "fee":"15000",
-        "location":"Farmgate",
-        "image":"https://www.daily-bangladesh.com/media/imgAll/2019September/en/du-karjun-hall-1910160935.jpg"
+        "image":"https://leverageedu.com/blog/wp-content/uploads/2020/05/How-to-Learn-Spoken-English_.png"
     },
     {
         "id":"8",
         "title":"Web Development Course",
         "description":"If you want to be web developer than this course for you",
         "fee":"15000",
-        "location":"Farmgate",
-        "image":"https://www.daily-bangladesh.com/media/imgAll/2019September/en/du-karjun-hall-1910160935.jpg"
+        "image":"https://engcode.net/wp-content/uploads/2021/08/Web-Development-Services-Speed-Up-The-Process.jpg"
     }
 ]

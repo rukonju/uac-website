@@ -23,7 +23,7 @@ const Header = () => {
                         <div className="vr" />
                         <NavLink to="/service">Service</NavLink>
                         <div className="vr" />
-                        <NavLink to="/bogs">Blogs</NavLink>
+                        <NavLink to="/blogs">Blogs</NavLink>
                         <div className="vr" />
                         <NavLink to="/about">About Us</NavLink>  
                     </Nav>
