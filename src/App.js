@@ -1,4 +1,3 @@
-
 import { BrowserRouter as Router, Switch,Route } from 'react-router-dom';
 import './App.css';
 import About from './components/About/About';
@@ -33,12 +32,11 @@ function App() {
           <Route path="*">
             <Page404></Page404>
           </Route>
-          
         </Switch>
-        <Footer className="bg-success"></Footer>
+        <Footer></Footer>
       </Router>
     </div>
   );
-}
+};
 
 export default App;

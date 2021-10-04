@@ -2,7 +2,9 @@ import React from 'react';
 import { Row, Col, Container, Image } from 'react-bootstrap';
 
 const blog = (props) => {
-    const{title, image,date,article}=props.blog
+    
+    const{title, image,date,article}=props.blog;
+
     return (
         <Container className="bg-success my-4 border rounded-3 text-white p-4">
             <Row>
