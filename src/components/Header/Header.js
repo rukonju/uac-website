@@ -11,8 +11,10 @@ const Header = () => {
         <Navbar bg="light" expand="lg">
             
             <NavLink to="/home">
-                <Image height="50px" src="./logo192.png" />
+                <Image className="ms-2" height="50px" src="./logo192.png" />
+                
             </NavLink>
+            <h3 className="text-success ms-2">UAC</h3>
             <Navbar.Toggle aria-controls="navbarScroll" />
             
                 <Navbar.Collapse>

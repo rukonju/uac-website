@@ -9,6 +9,7 @@
 }
 .nav a:hover{
     border-bottom: 4px solid #199d60;
+    color: #199d60;
 }
 .nav a:active{
     border-bottom: 4px solid #199d60;
