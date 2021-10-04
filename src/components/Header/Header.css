@@ -1,0 +1,33 @@
+.nav a{
+    color: rgb(71, 71, 71);
+    text-decoration: none;
+    line-height: 50px;
+    margin: 0px 20px;
+    font-size: 20px;
+    font-weight: 500;
+    border-bottom: 4px solid #199d5f00;
+}
+.nav a:hover{
+    border-bottom: 4px solid #199d60;
+}
+.nav a:active{
+    border-bottom: 4px solid #199d60;
+}
+.nav{
+    margin: auto;
+}
+ button{
+    padding: 5px;
+    margin-right: 5px;
+}
+@media only screen and (max-width: 600px) {
+    .search-feild input{
+        width: 100%;
+    }
+    .search-feild{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+  }

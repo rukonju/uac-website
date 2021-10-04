@@ -1,0 +1,66 @@
+[
+    {
+        "id":"1",
+        "title":"Du A Unit Admission Preperation",
+        "description":"If you dream to read University of Dhaka, this course is for you.It is directed by the group of some briliant student of DU.",
+        "fee":"15000",
+        "location":"Farmgate",
+        "image":"https://www.daily-bangladesh.com/media/imgAll/2019September/en/du-karjun-hall-1910160935.jpg"
+    },
+    {
+        "id":"2",
+        "title":"Engineering Admission Preperation",
+        "description":"If you dream to read BUET or any engineering university, this course is for you.It is directed by the group of some briliant student of BUET.",
+        "fee":"15000",
+        "location":"Farmgate",
+        "image":"https://resultbangladesh.com/sites/default/files//field/image/BUET-Admission-Result-Bangl.png"
+    },
+    {
+        "id":"3",
+        "title":"Medical Admission Preperation",
+        "description":"If you dream to read any Medical College, this course is for you.It is directed by the group of some briliant student of DMC.",
+        "fee":"15000",
+        "location":"Farmgate",
+        "image":"https://www.daily-bangladesh.com/media/imgAll/2019September/en/du-karjun-hall-1910160935.jpg"
+    },
+    {
+        "id":"4",
+        "title":"IBA Admission Preperation",
+        "description":"If you dream to read IBA, University of Dhaka, this course is for you.It is directed by the group of some briliant student of IBA, DU.",
+        "fee":"15000",
+        "location":"Farmgate",
+        "image":"https://www.daily-bangladesh.com/media/imgAll/2019September/en/du-karjun-hall-1910160935.jpg"
+    },
+    {
+        "id":"5",
+        "title":"DU B Unit Admission Preperation",
+        "description":"If you dream to read University of Dhaka, this course is for you.It is directed by the group of some briliant student of DU.",
+        "fee":"15000",
+        "location":"Farmgate",
+        "image":"https://www.daily-bangladesh.com/media/imgAll/2019September/en/du-karjun-hall-1910160935.jpg"
+    },
+    {
+        "id":"6",
+        "title":"DU C Unit Admission Preperation",
+        "description":"If you dream to read University of Dhaka, this course is for you.It is directed by the group of some briliant student of DU.",
+        "fee":"15000",
+        "location":"Farmgate",
+        "image":"https://www.daily-bangladesh.com/media/imgAll/2019September/en/du-karjun-hall-1910160935.jpg"
+    },
+    {
+        "id":"7",
+        "title":"Spocken English Course",
+        "description":"If you dream to read University of Dhaka, this course is for you.It is directed by the group of some briliant student of DU.",
+        "fee":"15000",
+        "location":"Farmgate",
+        "image":"https://www.daily-bangladesh.com/media/imgAll/2019September/en/du-karjun-hall-1910160935.jpg"
+    },
+    {
+        "id":"8",
+        "title":"Web Development Course",
+        "description":"If you want to be web developer than this course for you",
+        "fee":"15000",
+        "location":"Farmgate",
+        "image":"https://www.daily-bangladesh.com/media/imgAll/2019September/en/du-karjun-hall-1910160935.jpg"
+    }
+]
