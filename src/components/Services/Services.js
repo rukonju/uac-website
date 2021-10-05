@@ -16,7 +16,7 @@ const Services = () => {
     
     return (
         <Container>
-            <h1 className="text-center bg-warning py-3 text-success">All Courses</h1>
+            <h1 style={{backgroundColor:"#007ba7"}} className="text-center py-3 text-light">All Courses</h1>
             <Row>
                 {
                     courses.map(course=> <Service key={course.id} course={course}></Service>)

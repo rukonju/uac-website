@@ -3,9 +3,9 @@
 .nav a{
     color: rgb(71, 71, 71);
     text-decoration: none;
-    line-height: 50px;
+    line-height: 60px;
     margin: 0px 20px;
-    font-size: 20px;
+    font-size: 24px;
     font-weight: 500;
     border-bottom: 4px solid #199d5f00;
 }
@@ -15,16 +15,7 @@
     color: #199d60;
 }
 
-.nav a:active{
-    border-bottom: 4px solid #199d60;
-}
-
 .nav{
     margin: auto;
-}
-
-button{
-    padding: 5px;
-    margin-right: 5px;
 }
 

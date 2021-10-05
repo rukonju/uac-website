@@ -5,6 +5,7 @@ import Blogs from './components/Blogs/Blogs';
 import Footer from './components/Footer/Footer';
 import Header from './components/Header/Header';
 import Home from './components/Home/Home';
+import Join from './components/Join/Join';
 import Page404 from './components/Page404/Page404';
 import Services from './components/Services/Services';
 
@@ -25,6 +26,9 @@ function App() {
           </Route>
           <Route path="/blogs">
             <Blogs></Blogs>
+          </Route>
+          <Route path="/join">
+            <Join></Join>
           </Route>
           <Route path="/about">
             <About></About>

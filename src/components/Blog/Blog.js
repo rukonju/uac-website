@@ -6,7 +6,7 @@ const blog = (props) => {
     const{title, image,date,article}=props.blog;
 
     return (
-        <Container className="bg-success my-4 border rounded-3 text-white p-4">
+        <Container style={{backgroundColor:"#007ba7bf"}} className="  my-4 border rounded-3 text-white p-4">
             <Row>
                 <Col md={4}>
                     <h1 className="text-warning">{title}</h1>

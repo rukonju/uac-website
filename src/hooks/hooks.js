@@ -3,7 +3,7 @@
 import { useEffect, useState } from "react";
 
 const useData=(url)=>{
-    const [data,setData]=useState([])
+    const [data,setData]=useState([]);
     
     useEffect(()=>{
         fetch(url)

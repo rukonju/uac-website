@@ -1,0 +1,44 @@
+[
+    {
+        "id":"1",
+        "name":"MD Sobuj Ahmed",
+        "varsity":"University of Dhaka",
+        "image":"https://rukonju.github.io/image/FB_IMG_1633436528993.jpg"
+    },
+    {
+        "id":"2",
+        "name":"MD Nadim Ahmed",
+        "varsity":"University of Dhaka",
+        "image":"https://rukonju.github.io/image/FB_IMG_1633436144118.jpg"
+    },
+    {
+        "id":"3",
+        "name":"Rokibul Islam",
+        "varsity":"Rajshahi University",
+        "image":"https://rukonju.github.io/image/FB_IMG_1633436299783.jpg"
+    },
+    {
+        "id":"4",
+        "name":"Sadikul Islam Badhan",
+        "varsity":"Rajshahi University",
+        "image":"https://rukonju.github.io/image/FB_IMG_1633436655977.jpg"
+    },
+    {
+        "id":"5",
+        "name":"Al-Amin Mia",
+        "varsity":"BSMRSTU, Gopalganj",
+        "image":"https://rukonju.github.io/image/FB_IMG_1633436722604.jpg"
+    },
+    {
+        "id":"6",
+        "name":"Ramjan Mia",
+        "varsity":"HSTU, dinajpur",
+        "image":"https://rukonju.github.io/image/FB_IMG_1633436442751.jpg"
+    },
+    {
+        "id":"7",
+        "name":"Rukonuzzaman Rukon",
+        "varsity":"Jahangirnagar University",
+        "image":"https://rukonju.github.io/image/IMG_2419.JPG"
+    }
+]
