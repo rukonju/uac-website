@@ -53,6 +53,7 @@ const Footer = () => {
                     </div>
               </Col>
             </Row>
+            <p className="text-center text-white">Copyright © 2020-2021 UAC All Right Reserved.</p>
           </Container>
         </footer>
     );

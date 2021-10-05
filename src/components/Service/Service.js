@@ -11,7 +11,7 @@ const Service = (props) => {
             <Card.Body>
               <h2>{title} <Check2Circle/></h2>
               <Card.Text>{description}</Card.Text>
-              <h4 className="text-danger">Course Fee: {fee} Taka</h4>
+              <h4 className="text-danger">Course Fee: {fee} BDT</h4>
               <Button variant="success">Enroll now</Button>
             </Card.Body>
           </Card>
